@@ -4,7 +4,7 @@
 we making a "PHP RAT" but my budget week so my RAT project making stop if you help me some money I restart our project so please help me
 
 # DEMO ADMIN PANEL
- |[ADMIN PANEL](https://spyapp.cryptocitymining.info)
+ |[ADMIN PANEL Click here](https://spyapp.cryptocitymining.info)
 |:------------- |
 User Name= admin@gmail.com
 Pass=  123456
